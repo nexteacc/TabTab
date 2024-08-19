@@ -33,7 +33,7 @@ Users can view, modify, or delete their saved tabs directly within the extension
 
 **8. Contact Information**
 
-For any questions or concerns about this privacy policy, please contact us at [your-email@example.com].
+For any questions or concerns about this privacy policy, please contact us at [nexteacc@gmail.com].
 
 **9. Changes to This Privacy Policy**
 
