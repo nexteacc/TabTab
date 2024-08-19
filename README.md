@@ -43,4 +43,4 @@ We may update this Privacy Policy from time to time. We will notify users of any
 
 ---
 
-You can view the full privacy policy at: [Your Privacy Policy URL]
+You can view the full privacy policy at: [https://www.nextbigtoy.com/TabTab/]
