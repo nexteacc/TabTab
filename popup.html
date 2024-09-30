@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tab Tab </title>
+  <style>
+    body {
+      width: 200px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      font-family: Arial, sans-serif;
+    }
+    .icon {
+      margin-bottom: 15px;
+    }
+    h3 {
+      margin-top: 0;
+      margin-bottom: 15px;
+    }
+    select {
+      width: 100%;
+      margin-bottom: 15px;
+      padding: 5px;
+    }
+    .button-container {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+    }
+    button {
+      padding: 5px 10px;
+      cursor: pointer;
+      border: none; /* Remove default border */
+      border-radius: 4px; /* Optional: rounded corners */
+    }
+  </style>
+</head>
+<body>
+  <div class="icon">
+    <img src="icon128.png" width="48" alt="Icon">
+  </div>
+  <h3>Tab Tab</h3>
+  <select id="homepageSelect">
+    <option value="">Choose a new Tab</option>
+  </select>
+  <div class="button-container">
+    <button id="saveBtn">Save</button>
+    <button id="deleteBtn">Delete</button>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
