@@ -42,5 +42,3 @@ We may update this Privacy Policy from time to time. We will notify users of any
 **Effective Date:** [08/18/2024]
 
 ---
-
-You can view the full privacy policy at: [https://www.nextbigtoy.com/TabTab/]
